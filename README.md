@@ -1,2 +1,3 @@
-# Mower-Lunch2D
+# New 2D game
+
 Simple Idle game 
